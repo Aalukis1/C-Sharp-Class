@@ -1,2 +1,3 @@
 # C-Sharp-Class
-First C Sharp task
+First C# Programming tasks to 
+calculate multiplication, subtraction and division of numbers
