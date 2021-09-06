@@ -1,3 +1,3 @@
-# C-Sharp-Class
-First C# Programming tasks to 
-calculate multiplication, subtraction and division of numbers
+# Erbaver
+C# Programming tasks in Erbaver Internships
+
