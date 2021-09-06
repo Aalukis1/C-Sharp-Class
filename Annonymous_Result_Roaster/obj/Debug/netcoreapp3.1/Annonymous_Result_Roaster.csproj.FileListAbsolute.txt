@@ -1,0 +1,13 @@
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\bin\Debug\netcoreapp3.1\Annonymous_Result_Roaster.exe
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\bin\Debug\netcoreapp3.1\Annonymous_Result_Roaster.deps.json
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\bin\Debug\netcoreapp3.1\Annonymous_Result_Roaster.runtimeconfig.json
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\bin\Debug\netcoreapp3.1\Annonymous_Result_Roaster.runtimeconfig.dev.json
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\bin\Debug\netcoreapp3.1\Annonymous_Result_Roaster.dll
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\bin\Debug\netcoreapp3.1\Annonymous_Result_Roaster.pdb
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\obj\Debug\netcoreapp3.1\Annonymous_Result_Roaster.csprojAssemblyReference.cache
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\obj\Debug\netcoreapp3.1\Annonymous_Result_Roaster.AssemblyInfoInputs.cache
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\obj\Debug\netcoreapp3.1\Annonymous_Result_Roaster.AssemblyInfo.cs
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\obj\Debug\netcoreapp3.1\Annonymous_Result_Roaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\obj\Debug\netcoreapp3.1\Annonymous_Result_Roaster.dll
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\obj\Debug\netcoreapp3.1\Annonymous_Result_Roaster.pdb
+C:\Users\user\Erbaver\Annonymous_Result_Roaster\obj\Debug\netcoreapp3.1\Annonymous_Result_Roaster.genruntimeconfig.cache
