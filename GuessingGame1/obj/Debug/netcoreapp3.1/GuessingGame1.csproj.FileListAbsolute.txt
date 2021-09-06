@@ -1,0 +1,13 @@
+C:\Users\user\Erbaver\GuessingGame1\bin\Debug\netcoreapp3.1\GuessingGame1.exe
+C:\Users\user\Erbaver\GuessingGame1\bin\Debug\netcoreapp3.1\GuessingGame1.deps.json
+C:\Users\user\Erbaver\GuessingGame1\bin\Debug\netcoreapp3.1\GuessingGame1.runtimeconfig.json
+C:\Users\user\Erbaver\GuessingGame1\bin\Debug\netcoreapp3.1\GuessingGame1.runtimeconfig.dev.json
+C:\Users\user\Erbaver\GuessingGame1\bin\Debug\netcoreapp3.1\GuessingGame1.dll
+C:\Users\user\Erbaver\GuessingGame1\bin\Debug\netcoreapp3.1\GuessingGame1.pdb
+C:\Users\user\Erbaver\GuessingGame1\obj\Debug\netcoreapp3.1\GuessingGame1.csprojAssemblyReference.cache
+C:\Users\user\Erbaver\GuessingGame1\obj\Debug\netcoreapp3.1\GuessingGame1.AssemblyInfoInputs.cache
+C:\Users\user\Erbaver\GuessingGame1\obj\Debug\netcoreapp3.1\GuessingGame1.AssemblyInfo.cs
+C:\Users\user\Erbaver\GuessingGame1\obj\Debug\netcoreapp3.1\GuessingGame1.csproj.CoreCompileInputs.cache
+C:\Users\user\Erbaver\GuessingGame1\obj\Debug\netcoreapp3.1\GuessingGame1.dll
+C:\Users\user\Erbaver\GuessingGame1\obj\Debug\netcoreapp3.1\GuessingGame1.pdb
+C:\Users\user\Erbaver\GuessingGame1\obj\Debug\netcoreapp3.1\GuessingGame1.genruntimeconfig.cache
